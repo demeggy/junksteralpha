@@ -1,0 +1,58 @@
+click the X to delete items from your inventory
+
+slider pops up asking how many you want to delete
+cancel, confirm
+
+--------------
+
+Cargo enemies
+
+Cranebot (Chaser)
+		Hovering drones dragging their crane payloads behind them
+		Chain 1
+		Circuitboard 2
+		Wiring 3
+		Bolts 4
+		Microprocessor 1
+
+Loadingbot (Patroller)
+		A large exo-frame used to carry cargo around the deck
+		Alloys
+		Circuitboard
+		Wiring
+		Bolts
+		Microprocessor
+
+Hackerbot (Chaser)
+		Small, agile bots used for maintenance and repairs, they generally attack in swarms
+		Polymers
+		Wiring
+		Microprocessor
+
+Sentrybot (Sentry)
+		Stationary, but capable of firing live munitions at boarding pirates
+		AI Processor
+		Small Energy Core
+		Circuitboard
+		Wiring
+
+Cranebot Boss
+Loadingbot Boss
+Hackerbot Boss
+Sentrybot Boss
+
+Stats
+
+HP	
+PatrolStyle	Patrol/Chaser/Turret
+Waypoints	
+AttackStyle	Melee/Ranged
+Projectile	GameObject
+AttackRate	Time taken between attacks
+AIType		
+Aggro
+Loot
+
+---------------------
+
+Scriptable Objects to control the enemy types
